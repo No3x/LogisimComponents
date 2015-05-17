@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Library-Class: de.no3x.logisim.Components
+Created-By: No3x
